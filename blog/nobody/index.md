@@ -5,6 +5,7 @@ subtitle: "ㅋㅋ"
 type: "Development"
 blog: true
 text: true
+comments: true
 author: ""
 post-header: true
 header-img: "img/github.jpg"
