@@ -1,11 +1,3 @@
-# Permalinks
-permalink:      /:year-:month-:day/:title
-
-# Setup
-title:          Jihye Leee
-baseurl:        ""
-url:            "http://www.jihyeleee.com"
-
 # Assets
 sass:
   sass_dir:     _sass
