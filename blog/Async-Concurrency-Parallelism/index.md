@@ -72,6 +72,7 @@ Concurrency를 보면 빨간 선들이 뚝뚝 끊겨져 있는 것이 보인다.
 
 비동기 비동기 노래를 부르는 수많은 블로그의 글들을 보면 마치 비동기를 사용하면 *실제로 수행 시간이 짧아 지는* 것처럼 착각하게 만든다. 그러나 Async는 작업을 Async 할 뿐이지 작업 시간이 빨라 지는 것이 아니다. 가장 많이들 예를 드는 것이 아래와 같은 코드다.
 
+``` python
     async def fetch(url):
       async with aiohttp.ClientSession() as session:
         async with session.get(url) as res:
@@ -82,6 +83,7 @@ Concurrency를 보면 빨간 선들이 뚝뚝 끊겨져 있는 것이 보인다.
     		for url in urls:
           res = client.get(url)
           print(res.status_code)
+```
 
 기존의 requests 같은 라이브러리를 쓰면 여전히 Sync하게 실행되므로 aiohttp를 사용해야한다.
 
