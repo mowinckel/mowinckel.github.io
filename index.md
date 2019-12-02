@@ -8,9 +8,8 @@ description: Developer based in Seoul, South Korea.
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Jihye Leee,
     </h1>
-    <h1 class="intro">a Digital Product Designer at 
+    <h1 class="intro">just a developer
         <div class="intro-link">
             <a class="transition" href="http://ridicorp.com/" target="_blank">
                 RIDI
