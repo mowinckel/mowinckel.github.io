@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "아무도 가르쳐 주지 않는 것"
+subtitle: "ㅋㅋ"
+type: "Development"
+blog: true
+text: true
+author: ""
+post-header: true
+header-img: "img/github.jpg"
+order: 1
+---
+
 # 아무도 가르쳐 주지 않는 것
 
 당연하기도하고 설명하기 귀찮기도해서 잘 모르는 것들.
