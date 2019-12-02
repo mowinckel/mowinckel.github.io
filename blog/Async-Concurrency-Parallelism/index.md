@@ -28,7 +28,7 @@ order: 1
 
 이 글을 읽는 사람들은 영어를 할 줄 아니까 영영 사전에서 말하는 Asynchronous 의미 그대로를 한 번 맛보도록 하자 영어로는 아래와 같이 말하고 있다.
 
-*(of two or more objects or events) not existing or happening at the same time.*
+> (of two or more objects or events) not existing or happening at the same time.
 
 중요한 문장이다. 즉 Async는 "동시에 사건이 벌어지지 않는다"라는 의미인 것이다. 헌데 이것이 프로그래밍에서는 어떤 의미로 통하는 것일까? 
 
@@ -38,9 +38,7 @@ order: 1
 
 가장 큰 문제라고 생각한다. Concurrency와 Parallelism은 영어로 정리가 됐다. 그런데 한국어는 여전하다. 병행성과 동시성의 한자를 보면 아래와 같다.
 
-竝行 : 아우를 병, 다닐 행 
-
-同時 : 같을 동, 때 시
+> 竝行 : 아우를 병, 다닐 행 同時 : 같을 동, 때 시
 
 병행은 떼지어 우르르 몰려 다닌다는 의미로 보인다. 다시 말해 둘 이상의 일을 같이 진행한다는 뜻이다. 동시는 똑같은 순간을 의미하는 것 같다. 
 
