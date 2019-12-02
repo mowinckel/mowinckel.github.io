@@ -10,11 +10,11 @@ description: Developer based in Seoul, South Korea.
 <section class="explanation">
     <h1 class="intro">
     </h1>
-    <h1 class="intro">just a developer
+    <h1 class="intro">Just a developer
         <div class="intro-link">
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
-        </div>.
+        </div>
     </h1>
     <h2 class="intro"></h2>
 </section>
