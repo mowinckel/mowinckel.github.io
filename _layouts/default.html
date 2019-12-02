@@ -31,11 +31,11 @@
     <main>
       {{ content }}
         
-        <!-- {% if page.text == true %}
-            {% include share.html %}
-        {% endif %} -->
+        {% if page.text == true %}
+            {% include disqus_comments.html %}
+            <!-- {% include share.html %} -->
+        {% endif %}
 
-     {% include disqus_comments.html %}
     </main>
       
       {% include footer.html %}
