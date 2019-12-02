@@ -1,19 +1,17 @@
 ---
 layout: default
-title: "Ranghild"
+title:
 main: true
 subtitle: developer
 description: Developer based in Seoul, South Korea.
 ---
+
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
     </h1>
     <h1 class="intro">just a developer
         <div class="intro-link">
-            <a class="transition" href="http://ridicorp.com/" target="_blank">
-                RIDI
-            </a>
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
         </div>.

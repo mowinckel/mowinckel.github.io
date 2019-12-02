@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Jihye Leee"
+title:
 subtitle:
 type: "About"
-author: "Jihye Lee"
+author:
 permalink: /about/
 post-header: true
 header-img: img/about.jpg

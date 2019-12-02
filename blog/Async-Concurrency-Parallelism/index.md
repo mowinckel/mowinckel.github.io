@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "Async, Concurrency, Parallelism"
+subtitle: "Async, Concurrency, Parallelism"
+type: "Development"
+blog: true
+text: true
+author: ""
+post-header: true
+header-img: "img/github.jpg"
+order: 1
+---
+
 # Async, Concurrency, Parallelism
 
 프로그래밍을 하면서 Async는 아주 많이 접하는 단어중 하나다. 이걸 '비동기'라고 부르는데는 아무도 이상하게 생각하지 않을 것이다. 순 우리말이 아닌 한자로 한 번 풀어 보면 어떨까? 비동기의 '비'부터 보자. 아니라는 뜻이다. 무엇이 아닐까? 동기가 아니라는 것이다. 
