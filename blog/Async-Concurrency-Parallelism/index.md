@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Async, Concurrency, Parallelism"
-subtitle: "Async, Concurrency, Parallelism"
+subtitle: "이히히히"
 type: "Development"
 blog: true
 text: true
