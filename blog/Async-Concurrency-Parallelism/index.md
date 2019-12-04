@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Async, Concurrency, Parallelism"
-subtitle: "이히히히"
+subtitle: "Async, Concurrency, Parallelism"
 type: "Development"
 blog: true
 text: true
-comments: true
 author: ""
 post-header: true
 header-img: "img/github.jpg"
