@@ -1,3 +1,16 @@
+---
+layout: post
+title:  "프로그래머 3개월"
+subtitle: "프로그래머로서 3개월 일 해 본 소감"
+type: "Development"
+blog: true
+text: true
+comments: true
+author: ""
+post-header: true
+---
+
+
 # 프로그래머 3개월
 
 학교를 졸업하고 일을 시작해 벌써 6개월이 되었습니다. 그간 학생으로서 프로그래머를 벗어내고 이제 돈을 받고 일을 하는 프로그래머로서 3개월 일해 보면서 그 간의 감상을 적어보려고 합니다. 대학생과 프로그래밍을 공부 하는 사람들에게 도움이 됐으면 좋겠습니다.
