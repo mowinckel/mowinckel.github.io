@@ -74,12 +74,12 @@ Concurrency를 보면 빨간 선들이 뚝뚝 끊겨져 있는 것이 보인다.
 
 ``` python
 async def fetch(url):
-    async with aiohttp.ClientSession() as session:
-        async with session.get(url) as res:
+	async with aiohttp.ClientSession() as session:
+    	async with session.get(url) as res:
       		await res.text()
 
 def fetch(url):
-    with requests.Session() as session:
+	with requests.Session() as session:
     	for url in urls:
       		res = client.get(url)
         		print(res.status_code)
