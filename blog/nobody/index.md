@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "아무도 가르쳐 주지 않는 것"
-subtitle: "ㅋㅋ"
+subtitle: "아무도 안 가르쳐 주는 내용을 적어 봤다."
 type: "Development"
 blog: true
 text: true
@@ -11,7 +11,6 @@ post-header: true
 header-img: "img/github.jpg"
 order: 1
 ---
-# 아무도 가르쳐 주지 않는 것
 
 학생일 때는 전혀 몰랐지만 직업을 갖고 일을 시작하니 정말 중요했던 것들이다. 그러나 아무도 가르쳐 주지 않았고 당연하듯이 이런게 있는듯 행동하는 회사에서 적응하기 위해 애를 많이 써야 했다. 
 
