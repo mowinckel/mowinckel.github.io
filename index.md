@@ -3,14 +3,14 @@ layout: default
 title:
 main: true
 subtitle: developer
-description: Developer based in Seoul, South Korea.
+description:
 ---
 
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
     </h1>
-    <h1 class="intro">Just a developer
+    <h1 class="intro">Just a developer who 
         <div class="intro-link">
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
