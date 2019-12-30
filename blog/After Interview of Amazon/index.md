@@ -9,7 +9,7 @@ comments: true
 author: ""
 post-header: true
 header-img: "img/github.jpg"
-order: 0
+order: 5
 ---
 
 글로벌 기업의 인터뷰를 보면서 느낀 충격적인 점 하나는 이상하게 인터뷰가 전혀 어렵지가 않다는 점이다. 한국에서 면접을 볼 때와는 달리 그 어떤 스트레스도 없었다. 
