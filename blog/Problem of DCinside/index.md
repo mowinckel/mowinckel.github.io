@@ -87,7 +87,7 @@ https://images.dcinside.com/viewimage.php?id=2fbcc323e7d334aa51b1d3a24e&no=24b0d
 ### 썸네일을 사용하지 않음
 위 두 가지 문제와는 달리 비교적 작은 문제다. 디시인사이드는 썸네일을 적극적으로 활용하고 있는 편은 아니다. 디시는 페이지에 접근하면 무조건 '원본' 이미지를 우선 로딩한다. Lazy Loading 따위 역시 하지 않는다. 그렇다면 썸네일은 과연 어디에 있는걸까? 디시에서 썸네일을 찾으려면 바로 metadata를 보아야 한다. 페이지 소스를 열고 meta 태그들을 보면 아래와 같다. 필요한 부분말 볼 수 있도록 좀 편집했다.
 
-```
+``` html
     <meta property="og:type" content="website">
     <meta property="og:title" content="집에서 저렴하게 록맨 코스프래 한거 올려봄. - HIT 갤러리">
     <meta property="og:description" content="바야흐로 서기 20XX년 세계는 인간과 로봇이 서로 행복하게 공존을 하고 있었다.하지만 세계 정복을 꿈꾸던 닥터 ">
@@ -103,7 +103,7 @@ https://images.dcinside.com/viewimage.php?id=2fbcc323e7d334aa51b1d3a24e&no=24b0d
 
 위 처럼 디시인사이드는 썸네일을 보유하고 있음에도 불구하고 적극적으로 쓰는 편은 아니다. 더 재미있는 것은 썸네일이 가장 필요한 모바일 페이지에는 해당 meta 태그를 찾아 볼 수 없다는 점이다. 오히려 Lazy Loading이 가장 절실한 모바일 페이지의 img 태그는 아래와 같이 구성 되어 있었다.
 
-```
+``` html
 <img src="https://dcimg7.dcinside.co.kr/9f3c5ba3bf"  
 data-original="https://dcimg7.dcinside.co.kr/9f3c5ba3bf" 
 alt="9f3c5ba3bf"
